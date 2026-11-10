@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sfom-ai": {
+      "type": "http",
+      "url": "https://www.sfom.ai/api/mcp",
+      "headers": {
+        "X-API-Key": "${SFOM_API_KEY}"
+      }
+    }
+  }
+}
