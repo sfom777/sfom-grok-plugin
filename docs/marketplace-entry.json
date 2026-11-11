@@ -1,0 +1,28 @@
+{
+  "name": "sfom-ai",
+  "description": "SFOM.AI creator analytics for brands and agencies: measured Instagram, TikTok and YouTube creator stats (median views, engagement by views, reach per follower, own-norm multiple), video breakdowns, niche trends and TikTok fake-view checks. MCP server + skills + /vet-creator.",
+  "category": "marketing",
+  "source": {
+    "source": "url",
+    "url": "https://github.com/sfom777/sfom-grok-plugin.git",
+    "sha": "a588a2cbacb838c96a5153d06a9c5052410ecc88"
+  },
+  "homepage": "https://www.sfom.ai/grok",
+  "keywords": [
+    "sfom",
+    "creator analytics",
+    "influencer vetting",
+    "instagram stats",
+    "tiktok stats",
+    "youtube stats",
+    "ugc",
+    "engagement rate",
+    "influencer marketing",
+    "fake views"
+  ],
+  "domains": [
+    "sfom.ai",
+    "instagram.com",
+    "tiktok.com"
+  ]
+}
